@@ -17,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/SoldiersouZ/atividade/issues"
   },
-  "homepage": "https://github.com/SoldiersouZ/atividade#readme"
+  "homepage": "https://github.com/SoldiersouZ/atividade#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "nodemon": "^3.1.14"
+  }
 }
